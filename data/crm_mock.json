@@ -1,0 +1,283 @@
+{
+  "customers": [
+    {
+      "customer_id": "CUST001",
+      "name": "Alex Mercer",
+      "tier": "Standard",
+      "is_fraud_flagged": false,
+      "orders": [
+        {
+          "order_id": "ORD101",
+          "item_category": "Electronics",
+          "item_name": "Wireless Headphones",
+          "purchase_date": "2026-06-15",
+          "amount": 120.00,
+          "status": "Delivered"
+        }
+      ]
+    },
+    {
+      "customer_id": "CUST002",
+      "name": "Sarah Connor",
+      "tier": "VIP",
+      "is_fraud_flagged": false,
+      "orders": [
+        {
+          "order_id": "ORD102",
+          "item_category": "Electronics",
+          "item_name": "Smart Watch",
+          "purchase_date": "2026-05-10",
+          "amount": 350.00,
+          "status": "Delivered"
+        }
+      ]
+    },
+    {
+      "customer_id": "CUST003",
+      "name": "Bruce Wayne",
+      "tier": "Platinum",
+      "is_fraud_flagged": false,
+      "orders": [
+        {
+          "order_id": "ORD103",
+          "item_category": "Electronics",
+          "item_name": "High-End Home Theater",
+          "purchase_date": "2026-06-01",
+          "amount": 4500.00,
+          "status": "Delivered"
+        },
+        {
+          "order_id": "ORD104",
+          "item_category": "Automotive",
+          "item_name": "Performance Tires Set",
+          "purchase_date": "2026-06-10",
+          "amount": 1200.00,
+          "status": "Processing"
+        }
+      ]
+    },
+    {
+      "customer_id": "CUST004",
+      "name": "Frank Abagnale",
+      "tier": "Standard",
+      "is_fraud_flagged": true,
+      "orders": [
+        {
+          "order_id": "ORD105",
+          "item_category": "Jewelry",
+          "item_name": "Diamond Cufflinks",
+          "purchase_date": "2026-06-19",
+          "amount": 2500.00,
+          "status": "Pending Verification"
+        },
+        {
+          "order_id": "ORD106",
+          "item_category": "Gift Cards",
+          "item_name": "Digital Gift Card $500",
+          "purchase_date": "2026-06-19",
+          "amount": 500.00,
+          "status": "Pending Verification"
+        }
+      ]
+    },
+    {
+      "customer_id": "CUST005",
+      "name": "Rip Van Winkle",
+      "tier": "Standard",
+      "is_fraud_flagged": false,
+      "orders": [
+        {
+          "order_id": "ORD107",
+          "item_category": "Home Goods",
+          "item_name": "Memory Foam Mattress",
+          "purchase_date": "2022-04-15",
+          "amount": 850.00,
+          "status": "Delivered"
+        }
+      ]
+    },
+    {
+      "customer_id": "CUST006",
+      "name": "Jane Smith",
+      "tier": "Standard",
+      "is_fraud_flagged": false,
+      "orders": [
+        {
+          "order_id": "ORD108",
+          "item_category": "Apparel",
+          "item_name": "Winter Coat",
+          "purchase_date": "2026-05-20",
+          "amount": 150.00,
+          "status": "Returned"
+        }
+      ]
+    },
+    {
+      "customer_id": "CUST007",
+      "name": "Diana Prince",
+      "tier": "VIP",
+      "is_fraud_flagged": false,
+      "orders": [
+        {
+          "order_id": "ORD109",
+          "item_category": "Antiques",
+          "item_name": "Bronze Shield Replica",
+          "purchase_date": "2023-11-05",
+          "amount": 890.00,
+          "status": "Delivered"
+        }
+      ]
+    },
+    {
+      "customer_id": "1 ",
+      "name": "Peter Parker",
+      "tier": "Standard",
+      "is_fraud_flagged": false,
+      "orders": [
+        {
+          "order_id": "ORD110",
+          "item_category": "Photography",
+          "item_name": "DSLR Lens 50mm",
+          "purchase_date": "2026-06-18",
+          "amount": 199.99,
+          "status": "Processing"
+        }
+      ]
+    },
+    {
+      "customer_id": "CUST009",
+      "name": "Natasha Romanoff",
+      "tier": "Platinum",
+      "is_fraud_flagged": false,
+      "orders": [
+        {
+          "order_id": "ORD111",
+          "item_category": "Apparel",
+          "item_name": "Leather Jacket",
+          "purchase_date": "2025-10-12",
+          "amount": 450.00,
+          "status": "Delivered"
+        },
+        {
+          "order_id": "ORD112",
+          "item_category": "Fitness",
+          "item_name": "Kettlebell Set",
+          "purchase_date": "2026-01-22",
+          "amount": 120.00,
+          "status": "Delivered"
+        },
+        {
+          "order_id": "ORD113",
+          "item_category": "Electronics",
+          "item_name": "Encrypted Hard Drive",
+          "purchase_date": "2026-06-05",
+          "amount": 299.99,
+          "status": "Delivered"
+        }
+      ]
+    },
+    {
+      "customer_id": "CUST010",
+      "name": "Homer Simpson",
+      "tier": "Standard",
+      "is_fraud_flagged": false,
+      "orders": []
+    },
+    {
+      "customer_id": "CUST011",
+      "name": "Wanda Maximoff",
+      "tier": "Standard",
+      "is_fraud_flagged": false,
+      "orders": [
+        {
+          "order_id": "ORD114",
+          "item_category": "Home Decor",
+          "item_name": "Vintage Table Lamp",
+          "purchase_date": "2026-06-14",
+          "amount": 85.00,
+          "status": "Cancelled"
+        }
+      ]
+    },
+    {
+      "customer_id": "CUST012",
+      "name": "Lex Luthor",
+      "tier": "Platinum",
+      "is_fraud_flagged": true,
+      "orders": [
+        {
+          "order_id": "ORD115",
+          "item_category": "Real Estate Services",
+          "item_name": "Commercial Zoning Report",
+          "purchase_date": "2026-06-19",
+          "amount": 15000.00,
+          "status": "Suspended"
+        }
+      ]
+    },
+    {
+      "customer_id": "CUST013",
+      "name": "Clark Kent",
+      "tier": "VIP",
+      "is_fraud_flagged": false,
+      "orders": [
+        {
+          "order_id": "ORD116",
+          "item_category": "Office Supplies",
+          "item_name": "Ergonomic Keyboard",
+          "purchase_date": "2026-02-14",
+          "amount": 110.00,
+          "status": "Delivered"
+        },
+        {
+          "order_id": "ORD117",
+          "item_category": "Apparel",
+          "item_name": "Reading Glasses",
+          "purchase_date": "2026-04-03",
+          "amount": 45.00,
+          "status": "Delivered"
+        }
+      ]
+    },
+    {
+      "customer_id": "CUST014",
+      "name": "Selina Kyle",
+      "tier": "Standard",
+      "is_fraud_flagged": false,
+      "orders": [
+        {
+          "order_id": "ORD118",
+          "item_category": "Jewelry",
+          "item_name": "Pearl Necklace",
+          "purchase_date": "2026-05-28",
+          "amount": 650.00,
+          "status": "Returned"
+        },
+        {
+          "order_id": "ORD119",
+          "item_category": "Accessories",
+          "item_name": "Designer Handbag",
+          "purchase_date": "2026-06-02",
+          "amount": 1200.00,
+          "status": "Returned"
+        }
+      ]
+    },
+    {
+      "customer_id": "CUST015",
+      "name": "Arthur Dent",
+      "tier": "Standard",
+      "is_fraud_flagged": false,
+      "orders": [
+        {
+          "order_id": "ORD120",
+          "item_category": "Bath",
+          "item_name": "Egyptian Cotton Towel",
+          "purchase_date": "2026-06-17",
+          "amount": 42.00,
+          "status": "Shipped"
+        }
+      ]
+    }
+  ]
+}
